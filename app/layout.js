@@ -5,7 +5,7 @@ const ptSerif = PT_Serif({ subsets: ['latin'], weight: '400' })
 
 export const metadata = {
   title: 'End',
-  description: '...I Like This Song.',
+  description: "It's a peaceful life.",
 }
 
 export default function RootLayout({ children }) {
