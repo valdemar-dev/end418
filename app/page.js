@@ -16,7 +16,7 @@ export default function Home() {
           
           <div className='absolute left-0 bottom-20 sm:bottom-0' id="name">
             <h1 className="border-b-4 text-5xl sm:text-7xl w-fit pb-1 mb-1">End</h1>
-            <span className="ml-0"><i>"To Be Born Is To Have A Soul, I Guess."</i></span>
+            <span className="ml-0"><i>"It's a peaceful life."</i></span>
           </div>
 
 
